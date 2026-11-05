@@ -1,0 +1,6 @@
+{
+  "name": "AutoReel Studio - AI Video Highlight & Clip Creation",
+  "description": "Automated AI video editor that analyzes raw footage, extracts viral clips, builds dynamic highlight reels with kinetic subtitles, smart reframing, and instant export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
